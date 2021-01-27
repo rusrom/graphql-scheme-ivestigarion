@@ -1,7 +1,7 @@
 
 # Tools for generating GraphQL schema
 
-**Important resourses to read more**
+**Important resourses to read more**  
 https://github.com/hasura/sphinx-graphiql  
 https://hasura.io/docs/1.0/graphql/core/schema/export-graphql-schema.html  
 https://github.com/hasura/graphqurl  
