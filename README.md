@@ -2,11 +2,11 @@
 # Tools for generating GraphQL schema
 
 **Important resourses to read more**
-https://github.com/hasura/sphinx-graphiql
-https://hasura.io/docs/1.0/graphql/core/schema/export-graphql-schema.html
-https://github.com/hasura/graphqurl
-https://github.com/prisma-labs/get-graphql-schema
-https://github.com/apollographql/apollo-tooling
+https://github.com/hasura/sphinx-graphiql  
+https://hasura.io/docs/1.0/graphql/core/schema/export-graphql-schema.html  
+https://github.com/hasura/graphqurl  
+https://github.com/prisma-labs/get-graphql-schema  
+https://github.com/apollographql/apollo-tooling  
 
 If you need to share, introspect or export the GraphQL schema, you can use community tooling such as:
 -   [graphqurl](https://github.com/hasura/graphqurl)
